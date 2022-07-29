@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'futwora_prooblique';
+    src: url('futworapro-oblique-webfont.woff2') format('woff2'),
+        url('futworapro-oblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futwora_proregular';
+    src: url('futworapro-regular-webfont.woff2') format('woff2'),
+        url('futworapro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'freigeist_variableregular';
+    src: url('rene_bieder_-_freigeist_variable-webfont.woff2') format('woff2'),
+        url('rene_bieder_-_freigeist_variable-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
