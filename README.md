@@ -1,6 +1,6 @@
 # Places-Des-Arts-Project
 
-![brightsignHtmlCssJsBootstrap](https://user-images.githubusercontent.com/49698792/181840119-c70f9a73-b90d-4d35-ad80-8566921afdfc.png)
+![brightsignHtmlCssJsBootstrap](https://user-images.githubusercontent.com/49698792/182235579-4ca6cfbd-0ac2-4d80-bd82-ccc767786b1b.png)
 
 Interactive touch screen project on Brightsign environment for the Bébé symphonique exhibition at La Place des Arts of Montreal.
 
